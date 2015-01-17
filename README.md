@@ -6,3 +6,4 @@ Like and iphone Assistive Touch
 > 1. Click it to return desktop
 </p>
 > 2. Two seconds later fades
+</p>
