@@ -2,5 +2,5 @@
 Like and iphone Assistive Touch
 
 > V1.0
-> 1. Click it to return desktop
-> 2. Two seconds later fades
+</p>> 1. Click it to return desktop
+</p>> 2. Two seconds later fades
